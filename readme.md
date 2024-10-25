@@ -29,7 +29,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Solution](https://github.com/Solataiwo-15/testimonial-grid-section)
-- Live Site URL: [Live Site](https://four-card-feature-section-master-sage-six.vercel.app/)
+- Live Site URL: [Live Site](https://testimonial-grid-section-pearl-eight.vercel.app/)
 
 ## My process
 
